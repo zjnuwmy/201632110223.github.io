@@ -1,12 +1,12 @@
-<!DOCTYPE HTML>
+ï»¿<!DOCTYPE HTML>
 <html>
 <head>
 		<meta name="renderer" content="webkit">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 	<meta charset="utf-8" />
-	<title>ì§ÃÎÏë½ÌÓı-¾°ÄşÍØ»ÄÕß×ÉÑ¯·şÎñ²¿</title>
-	<meta name="keywords" content="¹Ø¼ü´Ê1,¹Ø¼ü´Ê2,¹Ø¼ü´Ê3" />
-	<meta name="description" content="ì§ÃÎÏë½ÌÓı-¾°ÄşÍØ»ÄÕß×ÉÑ¯·şÎñ²¿" />
+	<title>æ­†æ¢¦æƒ³æ•™è‚²-æ™¯å®æ‹“è’è€…å’¨è¯¢æœåŠ¡éƒ¨</title>
+	<meta name="keywords" content="å…³é”®è¯1,å…³é”®è¯2,å…³é”®è¯3" />
+	<meta name="description" content="æ­†æ¢¦æƒ³æ•™è‚²-æ™¯å®æ‹“è’è€…å’¨è¯¢æœåŠ¡éƒ¨" />
 	<meta http-equiv="Cache-Control" content="no-transform" />
 		<meta name="baidu-site-verification" content="oUhpLouGBr" />			<link href="/static/newtheme/model41/blue/../../common/css/modules.css?v=2015082101" rel="stylesheet" type="text/css" />
 	<link href="/static/newtheme/model41/blue/../common/css/common.css?v=2015082102" rel="stylesheet" type="text/css" />
@@ -27,7 +27,7 @@
 		$(function() {
 			$("img.lazyload").lazyload({failure_limit:100, effect:"fadeIn", skip_invisible:false, threshold:200});
 		});
-		/* ³õÊ¼»¯¿í¶È */
+		/* åˆå§‹åŒ–å®½åº¦ */
 		var MainDocumentWidth = '1001';
 		if(MainDocumentWidth!=""){
 			if(MainDocumentWidth>$(window).width()){
@@ -39,15 +39,15 @@
 	<!--[if lt IE 9]>
 	<script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js?v=201504071709"></script>
 	<![endif]-->
-		<!-- ¼ÓÔØIE6¶ÔPNGÍ¼Æ¬Í¸Ã÷µÄÖ§³Ö -->
+		<!-- åŠ è½½IE6å¯¹PNGå›¾ç‰‡é€æ˜çš„æ”¯æŒ -->
 	<!--[if IE 6]>
 	<script src="http://cdn.bootcss.com/dd_belatedpng/0.0.8/dd_belatedpng.min.js"></script>
 	<![endif]-->
 	
-	<!-- Ê×²¿¹¦ÄÜ²å¼ş end -->
+	<!-- é¦–éƒ¨åŠŸèƒ½æ’ä»¶ end -->
 </head>
 <body>
-<!-- Í·²¿²å¼ş×¢ÈëÇø -->
+<!-- å¤´éƒ¨æ’ä»¶æ³¨å…¥åŒº -->
 <script type="text/javascript" src="/static/js/library/layer/layer.min.js"></script>
 <script type="text/javascript" src="/static/js/library/common/common.js"></script>
 
@@ -131,79 +131,79 @@ $("#fx_fxpc").click(function(){
 	});
 });
 </script>
-<!-- Í·²¿ -->
+<!-- å¤´éƒ¨ -->
 <div class='g-document'>
 <header class="g-hd">
 <div class='g-hd-outer'>
 <div class="g-hd-inner g-hd-limit">
-	<!-- Í·²¿980 -->
+	<!-- å¤´éƒ¨980 -->
 		<div class='g-hd-edit'>
-		<!-- Í·²¿×Ô¶¨ÒåÄ£¿é -->
+		<!-- å¤´éƒ¨è‡ªå®šä¹‰æ¨¡å— -->
 				<div class="m-hd-headhtmlwrap" id="set_headhtml" >
 			<div class="m-hd-headhtml" style="width:50px;height:50px;top:25px;left:260px;">
 				<div class='m-headhtml-ct'></div>
 			</div>
 		</div>
-				<!-- Í·²¿×Ô¶¨ÒåÄ£¿é end -->
+				<!-- å¤´éƒ¨è‡ªå®šä¹‰æ¨¡å— end -->
 		<!-- LOGO -->
 				<div class="m-logo"   style="position:relative;top:auto;left:auto;" id="set_logo">
 			<a href="/"><img src="http://cdn033.yun-img.com/static/upload/newdreamol/logo/20161117170226_34833.png" alt=""  style="width:246px;height:100px;"></a>
 		</div>
 				<!-- LOGO end -->
 		<div class="m-hd-top">
-		<!--ÊÇ·ñÏÔÊ¾ÕûÌå×¢²áÌõ-->
+		<!--æ˜¯å¦æ˜¾ç¤ºæ•´ä½“æ³¨å†Œæ¡-->
 		<div class="m-head-regist">
 						<span id='set_userbox' >
-															<a class="u-hd-btn" id='set_login' href="#" style="color:;">µÇÂ¼</a> | <a class="m-hd-btn" id='set_register' href="#" style="color:;">×¢²á</a>
+															<a class="u-hd-btn" id='set_login' href="#" style="color:;">ç™»å½•</a> | <a class="m-hd-btn" id='set_register' href="#" style="color:;">æ³¨å†Œ</a>
 			</span>
-									<a class="u-hd-btn" href="#"  id='set_startpage' style="color:;">ÉèÎªÊ×Ò³</a>
-									<a class="u-hd-btn" href="#"  id='set_favorite' style="color:;">ÊÕ²Ø±¾Õ¾</a>
-									<a class="u-hd-btn u-trans" href="#"  id='set_translation' style="color:;">¼ò·±ÇĞ»»</a>
-									<a class="u-hd-btn u-trans" href="/order/cart.php"  id='set_cart' style="color:;"><img src="/static/img/cart1.png" width='12px' height='12px'> ¹ºÎï³µ</a>
+									<a class="u-hd-btn" href="#"  id='set_startpage' style="color:;">è®¾ä¸ºé¦–é¡µ</a>
+									<a class="u-hd-btn" href="#"  id='set_favorite' style="color:;">æ”¶è—æœ¬ç«™</a>
+									<a class="u-hd-btn u-trans" href="#"  id='set_translation' style="color:;">ç®€ç¹åˆ‡æ¢</a>
+									<a class="u-hd-btn u-trans" href="/order/cart.php"  id='set_cart' style="color:;"><img src="/static/img/cart1.png" width='12px' height='12px'> è´­ç‰©è½¦</a>
 															<div class="clearing"></div>
 		  </div>
-						<div id="for_search"><!--ËÑË÷¿ò ¿ªÊ¼ -->
+						<div id="for_search"><!--æœç´¢æ¡† å¼€å§‹ -->
     <div id="set_search" class="m-search">
-        <input type="text" class="u-search-key" value="ÇëÊäÈëËÑË÷ÄÚÈİ">
-        <input type="button" class="u-search-btn" value="ËÑË÷">
+        <input type="text" class="u-search-key" value="è¯·è¾“å…¥æœç´¢å†…å®¹">
+        <input type="button" class="u-search-btn" value="æœç´¢">
     </div>
-    <!--ËÑË÷¿ò ½áÊø -->
+    <!--æœç´¢æ¡† ç»“æŸ -->
 		  </div>
 		</div>
 		<div class="clearing"></div>
 		</div>
 		
-	<!-- Í·²¿980 end -->
+	<!-- å¤´éƒ¨980 end -->
 </div>
 <div class='m-nav' id='set_menu'>
   <ul>
-		<!--<li class='u-first'><a href="/">Ê×Ò³</a></li>-->
+		<!--<li class='u-first'><a href="/">é¦–é¡µ</a></li>-->
 				<li>
-											<a href="/index.php" >Ê×Ò³</a>
+											<a href="/index.php" >é¦–é¡µ</a>
 		</li>
 				<li>
-											<a href="/about.html" >Ñ§ÌÃ¼ò½é</a>
+											<a href="/about.html" >å­¦å ‚ç®€ä»‹</a>
 		</li>
 				<li>
-											<a href="/product.html" >¿Î³ÌÖĞĞÄ</a>
+											<a href="/product.html" >è¯¾ç¨‹ä¸­å¿ƒ</a>
 		</li>
 				<li>
-											<a href="/contact.html" >ÁªÏµÎÒÃÇ</a>
+											<a href="/contact.html" >è”ç³»æˆ‘ä»¬</a>
 		</li>
 				<li>
-											<a href="/message.html" >ÁôÑÔÉêÇë</a>
+											<a href="/message.html" >ç•™è¨€ç”³è¯·</a>
 		</li>
 				<li>
-											<a href="/download.html" >ÏÂÔØ×¨Çø</a>
+											<a href="/download.html" >ä¸‹è½½ä¸“åŒº</a>
 		</li>
 				<li>
-											<a href="/album.html" >Ñ§ÌÃ»·¾³</a>
+											<a href="/album.html" >å­¦å ‚ç¯å¢ƒ</a>
 		</li>
 				<li>
-											<a href="http://120.26.244.194:8888/logins.html" >Ğ£Ñ¶Í¨</a>
+											<a href="http://120.26.244.194:8888/logins.html" >æ ¡è®¯é€š</a>
 		</li>
 				<li>
-											<a href="/vote.html" >Í¶Æ±</a>
+											<a href="/vote.html" >æŠ•ç¥¨</a>
 		</li>
 	  </ul>
 </div>
@@ -233,7 +233,7 @@ $.fn.levelmenu = function(){
 		}else{
 			if($(this).next().length>0){
 				if($(this).offset().left > $(this).next().offset().left){
-					$('<li><a href="#">¸ü¶à</a><ul class="more"></ul></li>').appendTo($(">ul", parent));
+					$('<li><a href="#">æ›´å¤š</a><ul class="more"></ul></li>').appendTo($(">ul", parent));
 					$('.more', parent).addClass('last');
 					$('<li>'+$(this).html()+'</li>').appendTo($('.more', parent));
 					$(this).remove();
@@ -261,7 +261,7 @@ $.fn.levelmenu = function(){
 </script></div>
 <div class="clearing"></div>
 
-</div><!-- ÍÏ×§980 -->
+</div><!-- æ‹–æ‹½980 -->
 <div class="clearing"></div><div class="g-main">
 <script src="../static/js/scrollReveal.js"></script>
 <script>
@@ -270,7 +270,7 @@ $.fn.levelmenu = function(){
 	})
 </script>
 
-<!-- Õ¾µã¹«¸æÖĞĞÄÄ£¿é -->
+<!-- ç«™ç‚¹å…¬å‘Šä¸­å¿ƒæ¨¡å— -->
 <div class="m-wg m-default m-default-default" id="visualmodule_12" style='width:976px;height:325px;'>
 			<div class="m-wg-ct">
 		<div class='m-theme28'><table align="center" class="ke-zeroborder" style="width:100%;" border="0" cellspacing="0" cellpadding="2">
@@ -326,19 +326,19 @@ $.fn.levelmenu = function(){
 				<br />
 			</td>
 			<td style="text-align:center;vertical-align:middle;">
-				<strong style="text-align:center;line-height:1.5;white-space:normal;"><span style="color:#E53333;font-size:16px;">¿Î³ÌÉèÖÃ</span></strong><br />
+				<strong style="text-align:center;line-height:1.5;white-space:normal;"><span style="color:#E53333;font-size:16px;">è¯¾ç¨‹è®¾ç½®</span></strong><br />
 			</td>
 			<td style="text-align:center;">
 				<br />
 			</td>
 			<td style="text-align:center;vertical-align:middle;">
-				<span style="color:#E53333;"><span style="line-height:24px;font-size:16px;"><b>ÃûÊ¦ÍÅ¶Ó</b></span></span> 
+				<span style="color:#E53333;"><span style="line-height:24px;font-size:16px;"><b>åå¸ˆå›¢é˜Ÿ</b></span></span> 
 			</td>
 			<td style="text-align:center;">
 				<br />
 			</td>
 			<td style="text-align:center;vertical-align:middle;">
-				<strong style="text-align:center;color:#E53333;line-height:24px;font-size:16px;white-space:normal;">½ÌÑ§Ä£Ê½</strong><br />
+				<strong style="text-align:center;color:#E53333;line-height:24px;font-size:16px;white-space:normal;">æ•™å­¦æ¨¡å¼</strong><br />
 			</td>
 			<td>
 				<br />
@@ -349,21 +349,21 @@ $.fn.levelmenu = function(){
 				<br />
 			</td>
 			<td style="width:150px;">
-				<span style="text-align:center;color:#999999;line-height:24px;font-family:arial, " microsoft="" yahei",="" "hiragino="" sans="" gb",="" sans-serif;font-size:14px;white-space:normal;background-color:#ffffff;"="">ÖÂÁ¦ÓÚ³õ¸ßÖĞµÄÈ«Ãæ·¢Õ¹¡£ÀûÓÃË¼Î¬µ¼Í¼ºÍ½¨Ä£µÄ·½·¨°ïÖúÑ§Éú½¨Á¢È«ÃæµÄÖªÊ¶ÍøÂç¡£°ïÖúÍ¬Ñ§Ê÷Á¢ÕıÈ·µÄÑ§Ï°¹Û¿¼ÊÔ¹Û¡£</span><br />
+				<span style="text-align:center;color:#999999;line-height:24px;font-family:arial, " microsoft="" yahei",="" "hiragino="" sans="" gb",="" sans-serif;font-size:14px;white-space:normal;background-color:#ffffff;"="">è‡´åŠ›äºåˆé«˜ä¸­çš„å…¨é¢å‘å±•ã€‚åˆ©ç”¨æ€ç»´å¯¼å›¾å’Œå»ºæ¨¡çš„æ–¹æ³•å¸®åŠ©å­¦ç”Ÿå»ºç«‹å…¨é¢çš„çŸ¥è¯†ç½‘ç»œã€‚å¸®åŠ©åŒå­¦æ ‘ç«‹æ­£ç¡®çš„å­¦ä¹ è§‚è€ƒè¯•è§‚ã€‚</span><br />
 			</td>
 			<td>
 				<br />
 			</td>
 			<td style="width:150px;">
 				<p>
-					<span style="text-align:center;color:#999999;line-height:24px;font-family:arial, " microsoft="" yahei",="" "hiragino="" sans="" gb",="" sans-serif;font-size:14px;white-space:normal;background-color:#ffffff;"="">Ñ§¿ÆÕï¶Ï¿ÎÈ«²¿ÓÉÍÅ¶Ó¶¥¼¶ÃûÊ¦½øĞĞ£¬¿Îºó24Ğ¡Ê±ÄÚ»áÎªÍ¬Ñ§Ìá¹©Á¢ÌåÕï¶Ï±¨¸æ¡£</span><span style="color:#999999;line-height:24px;text-align:center;">ÎÄ»¯¿Î³Ì°²ÅÅÓµÓĞÏà¹Ø¾­ÑéµÄ½ÌÑ§×Ü¼à½øĞĞ±¸¿ÎÖ¸µ¼¡£</span>
+					<span style="text-align:center;color:#999999;line-height:24px;font-family:arial, " microsoft="" yahei",="" "hiragino="" sans="" gb",="" sans-serif;font-size:14px;white-space:normal;background-color:#ffffff;"="">å­¦ç§‘è¯Šæ–­è¯¾å…¨éƒ¨ç”±å›¢é˜Ÿé¡¶çº§åå¸ˆè¿›è¡Œï¼Œè¯¾å24å°æ—¶å†…ä¼šä¸ºåŒå­¦æä¾›ç«‹ä½“è¯Šæ–­æŠ¥å‘Šã€‚</span><span style="color:#999999;line-height:24px;text-align:center;">æ–‡åŒ–è¯¾ç¨‹å®‰æ’æ‹¥æœ‰ç›¸å…³ç»éªŒçš„æ•™å­¦æ€»ç›‘è¿›è¡Œå¤‡è¯¾æŒ‡å¯¼ã€‚</span>
 				</p>
 			</td>
 			<td>
 				<br />
 			</td>
 			<td style="width:150px;">
-				<span style="text-align: center;" microsoft="" yahei",="" "hiragino="" sans="" gb",="" sans-serif;font-size:14px;white-space:normal;background-color:#ffffff;"=""><span style="color:#999999;"><span style="line-height:24px;">ÍÅ¶Ó½ÌÊ¦¾­¹ıÏµÍ³ĞÔÅàÑµ£¬ÄÜÔËÓÃTPR¡¢</span></span><span style="color:#999999;line-height:24px;">Situational</span><span style="line-height:24px;color:#999999;">µÈ½ÌÑ§·½Ê½ÈÃÖªÊ¶±äµÃ¼òµ¥Ò×¶®¡£</span></span> 
+				<span style="text-align: center;" microsoft="" yahei",="" "hiragino="" sans="" gb",="" sans-serif;font-size:14px;white-space:normal;background-color:#ffffff;"=""><span style="color:#999999;"><span style="line-height:24px;">å›¢é˜Ÿæ•™å¸ˆç»è¿‡ç³»ç»Ÿæ€§åŸ¹è®­ï¼Œèƒ½è¿ç”¨TPRã€</span></span><span style="color:#999999;line-height:24px;">Situational</span><span style="line-height:24px;color:#999999;">ç­‰æ•™å­¦æ–¹å¼è®©çŸ¥è¯†å˜å¾—ç®€å•æ˜“æ‡‚ã€‚</span></span> 
 			</td>
 			<td>
 				<br />
@@ -397,20 +397,20 @@ $.fn.levelmenu = function(){
 <br /></div>
 	</div>
 </div>
-<!-- Ä£¿é end  duangou-->
+<!-- æ¨¡å— end  duangou-->
 
 	</div>
 </div>
 
-<!-- Ä£¿é end  duangou--><script type="text/javascript" src="/static/js/library/msgform/jquery.form.js"></script>
+<!-- æ¨¡å— end  duangou--><script type="text/javascript" src="/static/js/library/msgform/jquery.form.js"></script>
 <div class="m-wg m-default m-default-default" id="visualmodule_8" style='width:650px;height:376px;'><div class="m-wg-hd">
-	<h2>Ãâ·ÑÔ¤Ô¼ÊÔÌı</h2>
+	<h2>å…è´¹é¢„çº¦è¯•å¬</h2>
 			</div>
 			<div class="m-wg-ct">
 		<div class="m-theme33">
 			<div class='m-content'>
 				<div class="u-tiptxt">
-				ÓÉ¿Î³Ì¹ËÎÊÁªÏµÃûÊ¦ÍÅ¶ÓÎªº¢×Ó½øĞĞÑ§¿ÆÕï¶Ï								</div>
+				ç”±è¯¾ç¨‹é¡¾é—®è”ç³»åå¸ˆå›¢é˜Ÿä¸ºå­©å­è¿›è¡Œå­¦ç§‘è¯Šæ–­								</div>
 				<div class='m-theme33-form'>
 				<form action="message.php" method="post">
 					<div style='padding-right:15px;'><textarea class='u-textarea' style="width:px;height:px;" name="content"></textarea></div>
@@ -418,7 +418,7 @@ $.fn.levelmenu = function(){
 										<p class='u-line' style="width:auto;">
 					<label>
 											<span id="nis_need" style="color:red;">*</span>
-										<span id="name1">ÄúµÄĞÕÃû</span>£º
+										<span id="name1">æ‚¨çš„å§“å</span>ï¼š
 					</label>
 					<input class='u-input' type="text" id='nickname' name="nickname" size="15" maxlength="50" value=""/>
 					</p>
@@ -426,7 +426,7 @@ $.fn.levelmenu = function(){
 										<p class='u-line' style="width:auto;">
 					<label>
 											<span id="cis_need" style="color:red;">*</span>
-										<span id="name2">ÄúµÄµç»°</span>£º
+										<span id="name2">æ‚¨çš„ç”µè¯</span>ï¼š
 					</label>
 					<input class='u-input' type="text" id="contact"  name="contact" size="15" maxlength="50" value='' />
 					</p>
@@ -434,7 +434,7 @@ $.fn.levelmenu = function(){
 										<p class='u-line' style="width:auto;">
 					<label>
 											<span id="is_need1" style="color:red;">*</span>
-										<span id="name3">ÊÔÌıÑ§¿Æ</span>£º
+										<span id="name3">è¯•å¬å­¦ç§‘</span>ï¼š
 					</label>
 					<input class='u-input' type="text" id="other1"  name="other1" size="15" maxlength="50" value='' />
 					</p>
@@ -443,7 +443,7 @@ $.fn.levelmenu = function(){
 															<div class='f-clear'></div>
 					<center>
 					<div style="position:relative; ">
-					<input class="u-submit" style="position: absolute; top: auto; left: 0px;" value="Ô¤Ô¼ÊÔÌı" type="submit" onclick="register()" />
+					<input class="u-submit" style="position: absolute; top: auto; left: 0px;" value="é¢„çº¦è¯•å¬" type="submit" onclick="register()" />
 					
 					  </div>
 					</center>
@@ -462,46 +462,46 @@ $(function () {
             Xmisc_captcha = function(id){
                 $('#tuukdkdkd').attr('src', WEB_ROOT+'/captcha.php?v='+Math.random());
             };
-    ¡¡¡¡    $(".u-submit").click(function(){
-    ¡¡¡¡      if($(".u-textarea").val().trim()==''){
-    ¡¡¡¡          alert('ÁôÑÔÄÚÈİ²»ÄÜÎª¿Õ');
-    ¡¡¡¡          $(".u-textarea").focus();
-    ¡¡¡¡          return false;
-    ¡¡¡¡      }
+    ã€€ã€€    $(".u-submit").click(function(){
+    ã€€ã€€      if($(".u-textarea").val().trim()==''){
+    ã€€ã€€          alert('ç•™è¨€å†…å®¹ä¸èƒ½ä¸ºç©º');
+    ã€€ã€€          $(".u-textarea").focus();
+    ã€€ã€€          return false;
+    ã€€ã€€      }
     			   if($("#nis_need").length>0){
 					name = $("#name1").html();
-		¡¡¡¡      if($("#nickname").val().trim()==''){
-		¡¡¡¡          alert(name+'²»ÄÜÎª¿Õ');
-		¡¡¡¡          $("#nickname").focus();
-		¡¡¡¡          return false;
-		¡¡¡¡      }
+		ã€€ã€€      if($("#nickname").val().trim()==''){
+		ã€€ã€€          alert(name+'ä¸èƒ½ä¸ºç©º');
+		ã€€ã€€          $("#nickname").focus();
+		ã€€ã€€          return false;
+		ã€€ã€€      }
 			   }
                           if($("#cis_need").length>0){
 					name2 = $("#name2").html();
-        ¡¡¡¡      if($("#contact").val().trim()==''){
-        ¡¡¡¡          alert(name2+'²»ÄÜÎª¿Õ');
-        ¡¡¡¡          $("#contact").focus();
-        ¡¡¡¡          return false;
-        ¡¡¡¡      }¡¡
+        ã€€ã€€      if($("#contact").val().trim()==''){
+        ã€€ã€€          alert(name2+'ä¸èƒ½ä¸ºç©º');
+        ã€€ã€€          $("#contact").focus();
+        ã€€ã€€          return false;
+        ã€€ã€€      }ã€€
                 }
                           if($("#is_need1").length>0){
 					name3 = $("#name3").html();
-        ¡¡¡¡      if($("#other1").val().trim()==''){
-        ¡¡¡¡          alert(name3+'²»ÄÜÎª¿Õ');
-        ¡¡¡¡          $("#other1").focus();
-        ¡¡¡¡          return false;
-        ¡¡¡¡      }¡¡
+        ã€€ã€€      if($("#other1").val().trim()==''){
+        ã€€ã€€          alert(name3+'ä¸èƒ½ä¸ºç©º');
+        ã€€ã€€          $("#other1").focus();
+        ã€€ã€€          return false;
+        ã€€ã€€      }ã€€
                 }
                                function testAsync(){
                 var result = true;
                 $.ajax({
                         url: WEB_ROOT+"/account/valifycode.php",
-                        async: false,//¸ÄÎªÍ¬²½·½Ê½
+                        async: false,//æ”¹ä¸ºåŒæ­¥æ–¹å¼
                         type: "POST",
                         data: {validCode:$('#validateCode').val().trim()},
                         success: function(data){
                             if(data == 'yes'){
-                                alert('ÑéÖ¤Âë´íÎó£¡');
+                                alert('éªŒè¯ç é”™è¯¯ï¼');
                                 $('#validateCode').focus();
                                 result = false;
                             }
@@ -516,25 +516,25 @@ $(function () {
                         return true;
                     }
                 }else{
-                    alert('ÑéÖ¤Âë²»ÄÜÎª¿Õ');
+                    alert('éªŒè¯ç ä¸èƒ½ä¸ºç©º');
                     $('#validateCode').focus();
                     return false;
                 }
-    ¡¡¡¡    });
+    ã€€ã€€    });
 
-            //¸øÎÄ±¾¿òÌí¼ÓÊ§È¥½¹µãÊÂ¼ş
+            //ç»™æ–‡æœ¬æ¡†æ·»åŠ å¤±å»ç„¦ç‚¹äº‹ä»¶
             /*
             $('#contact').blur(function(){
                 var wordText = $(this).val();
                 if('' == wordText){
-                    wordText = 'ÊÖ»ú/QQºÅ/ÓÊÏä';
+                    wordText = 'æ‰‹æœº/QQå·/é‚®ç®±';
                     $(this).val(wordText);
                 }
             });
-            //¸øÎÄ±¾¿òÌí¼Ó»ñÈ¡½¹µãÊÂ¼ş
+            //ç»™æ–‡æœ¬æ¡†æ·»åŠ è·å–ç„¦ç‚¹äº‹ä»¶
             $('#contact').focus(function(){
                 var wordText = $(this).val();
-                if('ÊÖ»ú/QQºÅ/ÓÊÏä' == wordText){
+                if('æ‰‹æœº/QQå·/é‚®ç®±' == wordText){
                     wordText = '';
                     $(this).val(wordText);
                 }
@@ -560,7 +560,7 @@ $(function () {
         		var percentVal = '0%';
         		bar.width(percentVal);
         		percent.html(percentVal);
-				btn.html("ÉÏ´«ÖĞ...");
+				btn.html("ä¸Šä¼ ä¸­...");
     		},
     		uploadProgress: function(event, position, total, percentComplete) {
         		var percentVal = percentComplete + '%';
@@ -572,10 +572,10 @@ $(function () {
 					bar.width('0');
 					percent.html("");
 					fileurl.val("");
-			        btn.html("ÉÏ´«Ê§°Ü");
+			        btn.html("ä¸Šä¼ å¤±è´¥");
 					files.html(xhr['message']);
 			    }else{
-			        btn.html('ÉÏ´«³É¹¦£¡');
+			        btn.html('ä¸Šä¼ æˆåŠŸï¼');
 					files.html("");
 			        fileurl.val(xhr['url']);
 			    }
@@ -588,7 +588,7 @@ $(function () {
 		var pic = $(this).attr("rel");
 		$.post("action.php?act=delimg",{imagename:pic},function(msg){
 			if(msg==1){
-				files.html("É¾³ı³É¹¦.");
+				files.html("åˆ é™¤æˆåŠŸ.");
 				progress.hide();
 			}else{
 				alert(msg);
@@ -601,15 +601,15 @@ $(function () {
 
 
 					</div>
-		<!-- ½Å²¿ĞÅÏ¢ end -->
+		<!-- è„šéƒ¨ä¿¡æ¯ end -->
 	</div>
-	<!-- ½Å²¿980 end -->
+	<!-- è„šéƒ¨980 end -->
 </footer>
-<!-- ½Å²¿ end -->
+<!-- è„šéƒ¨ end -->
 </div>
-<!-- ÍÏ×§JS -->
-<!-- ½Å²¿¹¦ÄÜ²å¼ş -->
-<!-- µ×²¿²å¼ş×¢ÈëÇø -->
+<!-- æ‹–æ‹½JS -->
+<!-- è„šéƒ¨åŠŸèƒ½æ’ä»¶ -->
+<!-- åº•éƒ¨æ’ä»¶æ³¨å…¥åŒº -->
 <center></center>
 
 <bgsound src="" loop="-1">
