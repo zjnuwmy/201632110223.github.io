@@ -1,0 +1,617 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+		<meta name="renderer" content="webkit">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta charset="utf-8" />
+	<title>歆梦想教育-景宁拓荒者咨询服务部</title>
+	<meta name="keywords" content="关键词1,关键词2,关键词3" />
+	<meta name="description" content="歆梦想教育-景宁拓荒者咨询服务部" />
+	<meta http-equiv="Cache-Control" content="no-transform" />
+		<meta name="baidu-site-verification" content="oUhpLouGBr" />			<link href="/static/newtheme/model41/blue/../../common/css/modules.css?v=2015082101" rel="stylesheet" type="text/css" />
+	<link href="/static/newtheme/model41/blue/../common/css/common.css?v=2015082102" rel="stylesheet" type="text/css" />
+	<link href="/static/newtheme/model41/blue/css/style.css?v=201504071709" rel="stylesheet" type="text/css" />
+	<style type='text/css'>
+		.g-main,.g-hd-inner,.g-ft-inner{ width:1001px;}
+	.g-ft,.g-hd-outer{min-width:1001px;}
+	    			</style>
+	<script src="http://cdn.bootcss.com/jquery/1.11.2/jquery.min.js?v=201504071709"></script>
+	<script type="text/javascript" src="/static/js/library/SuperSlide/jquery.SuperSlide.2.1.1.js?v=201504071709"></script>
+	<script type="text/javascript" src="/static/js/library/lazyload/jquery.lazyload.js?v=1.93"></script>
+	<script type="text/javascript">
+		var WEBQEUESTURL = window.location.href.toLowerCase();
+		if((WEBQEUESTURL.indexOf('%3c')>0 && WEBQEUESTURL.indexOf('%3e')>0) || (WEBQEUESTURL.indexOf('<')>0 && WEBQEUESTURL.indexOf('>')>0)){
+			window.location.href = '/404.html';
+		}
+		var WEB_ROOT = 'http://newdreamol.com';
+		$(function() {
+			$("img.lazyload").lazyload({failure_limit:100, effect:"fadeIn", skip_invisible:false, threshold:200});
+		});
+		/* 初始化宽度 */
+		var MainDocumentWidth = '1001';
+		if(MainDocumentWidth!=""){
+			if(MainDocumentWidth>$(window).width()){
+				$('.g-document').width(MainDocumentWidth);
+			}
+		}
+		
+			</script>
+	<!--[if lt IE 9]>
+	<script src="http://cdn.bootcss.com/html5shiv/3.7.2/html5shiv.min.js?v=201504071709"></script>
+	<![endif]-->
+		<!-- 加载IE6对PNG图片透明的支持 -->
+	<!--[if IE 6]>
+	<script src="http://cdn.bootcss.com/dd_belatedpng/0.0.8/dd_belatedpng.min.js"></script>
+	<![endif]-->
+	
+	<!-- 首部功能插件 end -->
+</head>
+<body>
+<!-- 头部插件注入区 -->
+<script type="text/javascript" src="/static/js/library/layer/layer.min.js"></script>
+<script type="text/javascript" src="/static/js/library/common/common.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://css1.sendong.com/default/common/sDt_zaixan_cart.css" />
+<script type="text/javascript">
+
+$(document).ready(function(){
+    $("#float-tool-close").click(function() {
+        $("#float-toolLes_fix").hide();
+        $(".sDt_float-tool-mini").show();
+    });
+    $(".sDt_float-tool-mini").click(function(){
+        $("#float-toolLes_fix").show();
+        $(".sDt_float-tool-mini").hide();
+        
+    });
+    $("#commun-zaix,#commun-zaixp,#commun-phone").hover(function() {
+            $(this).find("div.commun_div").show();
+        },function() {
+            $(this).find("div.commun_div").hide();
+    });
+    $("#commun-phone").hover(function() {
+            $(this).find("div.phone_div").show();
+        },function() {
+            $(this).find("div.phone_div").hide();
+    });
+
+    $(window).scroll(function(){
+        var y = $(document).scrollTop();
+          if(y >= 500){
+                $('#j-roll-btn').show();
+          }else{
+                $('#j-roll-btn').hide();
+          }
+    });
+    $("#j-roll-btn a").click(function() {
+        $("html,body").animate({
+            scrollTop : "0px"
+        }, 100)
+    });
+    //$("div[id^='pop_']")
+    $("a[id^='pop_']").mouseover(function(){
+       // $("#div_id").css("display","block");
+       //alert('over');
+       $(this).siblings().css("display","block");
+    });
+    $("a[id^='pop_']").mouseout(function(){
+       // alert('out');
+        //$("#div_id").css("display","none");
+        $(this).siblings().css("display","none");
+    });
+});
+
+
+<script>
+$("#fx_applypc").click(function(){
+	$.layer({
+		type:2,
+		title:'',
+		area:['560px','320px'],
+		offset:['180px',''],
+		iframe:{src:"/account/fenxiao.php?type=fx_apply"}
+	});
+});
+$("#fx_tgpc").click(function(){
+	$.layer({
+		type:2,
+		title:'',
+		area:['565px','640px'],
+		offset:['10px',''],
+		iframe:{src:"/account/fenxiao.php?type=fx_tuiguang"}
+	});
+});
+$("#fx_fxpc").click(function(){
+	$.layer({
+		type:2,
+		title:'',
+		area:['565px','640px'],
+		offset:['10px',''],
+		iframe:{src:"/account/fenxiao.php?type=fx_fenxiang"}
+	});
+});
+</script>
+<!-- 头部 -->
+<div class='g-document'>
+<header class="g-hd">
+<div class='g-hd-outer'>
+<div class="g-hd-inner g-hd-limit">
+	<!-- 头部980 -->
+		<div class='g-hd-edit'>
+		<!-- 头部自定义模块 -->
+				<div class="m-hd-headhtmlwrap" id="set_headhtml" >
+			<div class="m-hd-headhtml" style="width:50px;height:50px;top:25px;left:260px;">
+				<div class='m-headhtml-ct'></div>
+			</div>
+		</div>
+				<!-- 头部自定义模块 end -->
+		<!-- LOGO -->
+				<div class="m-logo"   style="position:relative;top:auto;left:auto;" id="set_logo">
+			<a href="/"><img src="http://cdn033.yun-img.com/static/upload/newdreamol/logo/20161117170226_34833.png" alt=""  style="width:246px;height:100px;"></a>
+		</div>
+				<!-- LOGO end -->
+		<div class="m-hd-top">
+		<!--是否显示整体注册条-->
+		<div class="m-head-regist">
+						<span id='set_userbox' >
+															<a class="u-hd-btn" id='set_login' href="#" style="color:;">登录</a> | <a class="m-hd-btn" id='set_register' href="#" style="color:;">注册</a>
+			</span>
+									<a class="u-hd-btn" href="#"  id='set_startpage' style="color:;">设为首页</a>
+									<a class="u-hd-btn" href="#"  id='set_favorite' style="color:;">收藏本站</a>
+									<a class="u-hd-btn u-trans" href="#"  id='set_translation' style="color:;">简繁切换</a>
+									<a class="u-hd-btn u-trans" href="/order/cart.php"  id='set_cart' style="color:;"><img src="/static/img/cart1.png" width='12px' height='12px'> 购物车</a>
+															<div class="clearing"></div>
+		  </div>
+						<div id="for_search"><!--搜索框 开始 -->
+    <div id="set_search" class="m-search">
+        <input type="text" class="u-search-key" value="请输入搜索内容">
+        <input type="button" class="u-search-btn" value="搜索">
+    </div>
+    <!--搜索框 结束 -->
+		  </div>
+		</div>
+		<div class="clearing"></div>
+		</div>
+		
+	<!-- 头部980 end -->
+</div>
+<div class='m-nav' id='set_menu'>
+  <ul>
+		<!--<li class='u-first'><a href="/">首页</a></li>-->
+				<li>
+											<a href="/index.php" >首页</a>
+		</li>
+				<li>
+											<a href="/about.html" >学堂简介</a>
+		</li>
+				<li>
+											<a href="/product.html" >课程中心</a>
+		</li>
+				<li>
+											<a href="/contact.html" >联系我们</a>
+		</li>
+				<li>
+											<a href="/message.html" >留言申请</a>
+		</li>
+				<li>
+											<a href="/download.html" >下载专区</a>
+		</li>
+				<li>
+											<a href="/album.html" >学堂环境</a>
+		</li>
+				<li>
+											<a href="http://120.26.244.194:8888/logins.html" >校讯通</a>
+		</li>
+				<li>
+											<a href="/vote.html" >投票</a>
+		</li>
+	  </ul>
+</div>
+<div style="clear:both"></div>
+<script type="text/javascript">
+var SYSPAGEURL = window.location.pathname + window.location.search;
+if(SYSPAGEURL=='/index.html' || SYSPAGEURL=='/index.php' || SYSPAGEURL==''){
+	SYSPAGEURL = '/';
+}
+$(document).ready(function(){
+	
+	$('.m-nav').levelmenu();
+	
+	$(".m-nav .select").removeClass('select');
+	$(".m-nav a[href='" + SYSPAGEURL + "']").parent().addClass('select');
+});
+
+$.fn.levelmenu = function(){
+	$(this).css('overflow','visible');
+	$(this).css('z-index','999');
+	var overmax = false;
+	var parent = this;
+	$('>ul>li', this).each(function(){
+		if(overmax){
+			$('<li>'+$(this).html()+'</li>').appendTo($('.more', parent));
+			$(this).remove();
+		}else{
+			if($(this).next().length>0){
+				if($(this).offset().left > $(this).next().offset().left){
+					$('<li><a href="#">更多</a><ul class="more"></ul></li>').appendTo($(">ul", parent));
+					$('.more', parent).addClass('last');
+					$('<li>'+$(this).html()+'</li>').appendTo($('.more', parent));
+					$(this).remove();
+					overmax = true;
+				}
+			}else{
+				if($(this).find('ul ul:first').length>0){
+					$(this).find('ul:first').addClass('last');
+				}
+			}
+		}
+	});
+
+	$("ul ul", this).css({display: "none"});
+	$("ul li", this).hover(
+		function(){
+			$(this).addClass('select').find('ul:first').css({visibility: "visible",display: "none"}).fadeIn(400);
+		},function(){
+			$(this).removeClass('select').find('ul:first').css({visibility: "hidden"});
+			$(".m-nav a[href='" + SYSPAGEURL + "']").parent().addClass('select');
+		}
+	);
+};
+
+</script></div>
+<div class="clearing"></div>
+
+</div><!-- 拖拽980 -->
+<div class="clearing"></div><div class="g-main">
+<script src="../static/js/scrollReveal.js"></script>
+<script>
+	$(function(){
+		window.scrollReveal = new scrollReveal();
+	})
+</script>
+
+<!-- 站点公告中心模块 -->
+<div class="m-wg m-default m-default-default" id="visualmodule_12" style='width:976px;height:325px;'>
+			<div class="m-wg-ct">
+		<div class='m-theme28'><table align="center" class="ke-zeroborder" style="width:100%;" border="0" cellspacing="0" cellpadding="2">
+	<tbody>
+		<tr>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<br />
+			</td>
+			<td style="width:150px;text-align:center;">
+				<img width="130" height="130" alt="" src="http://cdn033.yun-img.com/static/upload/a00524/visualtoolkit/20150728161803_63142.png" /><br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td style="width:150px;text-align:center;">
+				<img width="130" height="130" alt="" src="http://cdn033.yun-img.com/static/upload/a00524/visualtoolkit/20150728161818_30427.png" /><br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td style="width:150px;text-align:center;">
+				<img width="130" height="130" alt="" src="http://cdn033.yun-img.com/static/upload/a00524/visualtoolkit/20150728161833_65937.png" /><br />
+			</td>
+			<td>
+				<br />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<br />
+			</td>
+			<td style="text-align:center;vertical-align:middle;">
+				<strong style="text-align:center;line-height:1.5;white-space:normal;"><span style="color:#E53333;font-size:16px;">课程设置</span></strong><br />
+			</td>
+			<td style="text-align:center;">
+				<br />
+			</td>
+			<td style="text-align:center;vertical-align:middle;">
+				<span style="color:#E53333;"><span style="line-height:24px;font-size:16px;"><b>名师团队</b></span></span> 
+			</td>
+			<td style="text-align:center;">
+				<br />
+			</td>
+			<td style="text-align:center;vertical-align:middle;">
+				<strong style="text-align:center;color:#E53333;line-height:24px;font-size:16px;white-space:normal;">教学模式</strong><br />
+			</td>
+			<td>
+				<br />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<br />
+			</td>
+			<td style="width:150px;">
+				<span style="text-align:center;color:#999999;line-height:24px;font-family:arial, " microsoft="" yahei",="" "hiragino="" sans="" gb",="" sans-serif;font-size:14px;white-space:normal;background-color:#ffffff;"="">致力于初高中的全面发展。利用思维导图和建模的方法帮助学生建立全面的知识网络。帮助同学树立正确的学习观考试观。</span><br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td style="width:150px;">
+				<p>
+					<span style="text-align:center;color:#999999;line-height:24px;font-family:arial, " microsoft="" yahei",="" "hiragino="" sans="" gb",="" sans-serif;font-size:14px;white-space:normal;background-color:#ffffff;"="">学科诊断课全部由团队顶级名师进行，课后24小时内会为同学提供立体诊断报告。</span><span style="color:#999999;line-height:24px;text-align:center;">文化课程安排拥有相关经验的教学总监进行备课指导。</span>
+				</p>
+			</td>
+			<td>
+				<br />
+			</td>
+			<td style="width:150px;">
+				<span style="text-align: center;" microsoft="" yahei",="" "hiragino="" sans="" gb",="" sans-serif;font-size:14px;white-space:normal;background-color:#ffffff;"=""><span style="color:#999999;"><span style="line-height:24px;">团队教师经过系统性培训，能运用TPR、</span></span><span style="color:#999999;line-height:24px;">Situational</span><span style="line-height:24px;color:#999999;">等教学方式让知识变得简单易懂。</span></span> 
+			</td>
+			<td>
+				<br />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+			<td>
+				<br />
+			</td>
+		</tr>
+	</tbody>
+</table>
+<br /></div>
+	</div>
+</div>
+<!-- 模块 end  duangou-->
+
+	</div>
+</div>
+
+<!-- 模块 end  duangou--><script type="text/javascript" src="/static/js/library/msgform/jquery.form.js"></script>
+<div class="m-wg m-default m-default-default" id="visualmodule_8" style='width:650px;height:376px;'><div class="m-wg-hd">
+	<h2>免费预约试听</h2>
+			</div>
+			<div class="m-wg-ct">
+		<div class="m-theme33">
+			<div class='m-content'>
+				<div class="u-tiptxt">
+				由课程顾问联系名师团队为孩子进行学科诊断								</div>
+				<div class='m-theme33-form'>
+				<form action="message.php" method="post">
+					<div style='padding-right:15px;'><textarea class='u-textarea' style="width:px;height:px;" name="content"></textarea></div>
+						
+										<p class='u-line' style="width:auto;">
+					<label>
+											<span id="nis_need" style="color:red;">*</span>
+										<span id="name1">您的姓名</span>：
+					</label>
+					<input class='u-input' type="text" id='nickname' name="nickname" size="15" maxlength="50" value=""/>
+					</p>
+										
+										<p class='u-line' style="width:auto;">
+					<label>
+											<span id="cis_need" style="color:red;">*</span>
+										<span id="name2">您的电话</span>：
+					</label>
+					<input class='u-input' type="text" id="contact"  name="contact" size="15" maxlength="50" value='' />
+					</p>
+										
+										<p class='u-line' style="width:auto;">
+					<label>
+											<span id="is_need1" style="color:red;">*</span>
+										<span id="name3">试听学科</span>：
+					</label>
+					<input class='u-input' type="text" id="other1"  name="other1" size="15" maxlength="50" value='' />
+					</p>
+										
+										
+															<div class='f-clear'></div>
+					<center>
+					<div style="position:relative; ">
+					<input class="u-submit" style="position: absolute; top: auto; left: 0px;" value="预约试听" type="submit" onclick="register()" />
+					
+					  </div>
+					</center>
+				</form>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+
+
+$(function () {
+    $(document).ready(function(){
+            var WEB_ROOT = 'http://newdreamol.com';
+            Xmisc_captcha = function(id){
+                $('#tuukdkdkd').attr('src', WEB_ROOT+'/captcha.php?v='+Math.random());
+            };
+    　　    $(".u-submit").click(function(){
+    　　      if($(".u-textarea").val().trim()==''){
+    　　          alert('留言内容不能为空');
+    　　          $(".u-textarea").focus();
+    　　          return false;
+    　　      }
+    			   if($("#nis_need").length>0){
+					name = $("#name1").html();
+		　　      if($("#nickname").val().trim()==''){
+		　　          alert(name+'不能为空');
+		　　          $("#nickname").focus();
+		　　          return false;
+		　　      }
+			   }
+                          if($("#cis_need").length>0){
+					name2 = $("#name2").html();
+        　　      if($("#contact").val().trim()==''){
+        　　          alert(name2+'不能为空');
+        　　          $("#contact").focus();
+        　　          return false;
+        　　      }　
+                }
+                          if($("#is_need1").length>0){
+					name3 = $("#name3").html();
+        　　      if($("#other1").val().trim()==''){
+        　　          alert(name3+'不能为空');
+        　　          $("#other1").focus();
+        　　          return false;
+        　　      }　
+                }
+                               function testAsync(){
+                var result = true;
+                $.ajax({
+                        url: WEB_ROOT+"/account/valifycode.php",
+                        async: false,//改为同步方式
+                        type: "POST",
+                        data: {validCode:$('#validateCode').val().trim()},
+                        success: function(data){
+                            if(data == 'yes'){
+                                alert('验证码错误！');
+                                $('#validateCode').focus();
+                                result = false;
+                            }
+                        }
+                    });
+                    return result;
+                }
+                if($('#validateCode').val().trim() !=''){
+                    if(!testAsync()){ 
+                        return false;
+                    }else{
+                        return true;
+                    }
+                }else{
+                    alert('验证码不能为空');
+                    $('#validateCode').focus();
+                    return false;
+                }
+    　　    });
+
+            //给文本框添加失去焦点事件
+            /*
+            $('#contact').blur(function(){
+                var wordText = $(this).val();
+                if('' == wordText){
+                    wordText = '手机/QQ号/邮箱';
+                    $(this).val(wordText);
+                }
+            });
+            //给文本框添加获取焦点事件
+            $('#contact').focus(function(){
+                var wordText = $(this).val();
+                if('手机/QQ号/邮箱' == wordText){
+                    wordText = '';
+                    $(this).val(wordText);
+                }
+            });
+            */
+        });
+$(function () {
+	var bar = $('.bar');
+	var fileurl = $('#fileurl');
+	var percent = $('.percent');
+	var files = $(".files");
+	var progress = $(".progress");
+	var btn = $(".btn span");
+	$("#fileupload").wrap("<form id='myupload' action='/webapi/kindupload.php?s=newdreamol&t=message&dir=file' method='post' enctype='multipart/form-data'></form>");
+    $("#fileupload").change(function(){
+		if($("#fileupload").val().length==0){
+			files.html("");
+		}else{
+		$("#myupload").ajaxSubmit({
+			dataType:  'json',
+			beforeSend: function() {
+				progress.show();
+        		var percentVal = '0%';
+        		bar.width(percentVal);
+        		percent.html(percentVal);
+				btn.html("上传中...");
+    		},
+    		uploadProgress: function(event, position, total, percentComplete) {
+        		var percentVal = percentComplete + '%';
+        		bar.width(percentVal);
+        		percent.html(percentVal);
+    		},
+			success: function(xhr) {
+			    if(xhr['error']==1){
+					bar.width('0');
+					percent.html("");
+					fileurl.val("");
+			        btn.html("上传失败");
+					files.html(xhr['message']);
+			    }else{
+			        btn.html('上传成功！');
+					files.html("");
+			        fileurl.val(xhr['url']);
+			    }
+			}
+		});
+		}
+	});
+	/*
+	$(".delimg").live('click',function(){
+		var pic = $(this).attr("rel");
+		$.post("action.php?act=delimg",{imagename:pic},function(msg){
+			if(msg==1){
+				files.html("删除成功.");
+				progress.hide();
+			}else{
+				alert(msg);
+			}
+		});
+	});*/
+});
+});
+
+
+
+					</div>
+		<!-- 脚部信息 end -->
+	</div>
+	<!-- 脚部980 end -->
+</footer>
+<!-- 脚部 end -->
+</div>
+<!-- 拖拽JS -->
+<!-- 脚部功能插件 -->
+<!-- 底部插件注入区 -->
+<center></center>
+
+<bgsound src="" loop="-1">
+</body>
+</html>
