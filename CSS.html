@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>CSS</title>
+<style>
+a{text-decoration : none} 
+a:hover{text-decoration:underline}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color:white;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  padding: 12px 16px;
+}
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+</style>
+<link rel="shortcut icon" href="../../../icon/firsticon.ico">
+<link rel="stylesheet" href="../../style sheet/main style.css">
+</head>
+<body background="插画/1 (28).jpg">
+<div class="dropdown">
+  <span><strong>TO the others!</strong></span>
+  <div class="dropdown-content">
+    <p><a href="HTML.html">HTML</a></p>
+    <p><a href="JS.html">JavaScript</a></p>
+  </div>
+</div>
+<div id="header">
+     <h1>About CSS!</h1>
+</div>
+   <div class="content">
+     <h3>Learning web development basic technology needs to know three sowrds: <span>HTML</span>, <span>CSS</span> and <span>JavaScript language</span>.</h3>
+	 <strong><span>CSS</span>:</strong>Css(English Cascading Style Sheets) is a computer language that is used to represent HTML (a standard generic markup language application) or XML (a subset of Standard Generalized Markup Language). CSS can not only modify web pages statically, but also dynamically formatting the elements of a web page in a variety of scripting languages.<br>
+CSS can precisely control pixel layout in web pages, support almost all font and font styles, and have the ability to edit webpage objects and model styles. 	<br></div>
+<div class="content">
+   <h2>Language characteristics</h2>
+   <table width="1295" height="146" border="1">
+     <tr>
+       <td width="121"><div align="center">Rich style definition</div></td>
+       <td width="1149">CSS provides a rich document style appearance, and the ability to set the text and background attributes; allowed to create borders for any element, and the distance between elements and other elements of the frame, and the distance between the frame and the content of the element element; allowed to change the text size and writing, modification and other page effect.</td>
+     </tr>
+     <tr>
+       <td><div align="center">Easy to use and modify</div></td>
+       <td>CSS can define styles in the style attribute of HTML elements, or it can be defined in the header part of HTML documents, or it can be declared in a specialized CSS file for HTML page reference. In a word, the CSS stylesheet can store all the style declarations in a unified way and manage them in a unified way.<br>
+       In addition, you can classify the same style elements, use the same style to define, or apply a style to all the HTML tags of the same name, or you can assign a CSS style to a page element. If the style is to be modified, we only need to find the corresponding style declaration in the style list to modify it.</td>
+     </tr>
+     <tr>
+       <td><div align="center">Multi page application</div></td>
+       <td>The CSS stylesheet can be stored in a single CSS file, so that we can use the same CSS stylesheet on multiple pages. The CSS stylesheet does not belong to any page file in theory, and can be referenced in any page file. This can achieve the unity of multiple page styles.</td>
+     </tr>
+     <tr>
+       <td><div align="center">Cascade</div></td>
+       <td>In a simple way, stack is to set the same style many times for an element, which will use the attribute value of the last set. For example, multiple pages in a site use the same set of CSS stylesheets, while some elements in some pages want to use other styles. You can define a stylesheet to apply to the page individually for these styles. These later defined styles will rewrite the previous style settings, and what you see in the browser will be the most later set of style effects.</td>
+     </tr>
+     <tr>
+       <td><div align="center">Page compression</div></td>
+       <td>In websites that use HTML to define page effects, a large number of duplicate tables and font elements are needed to form various types of text styles. The consequence of this is that a large number of HTML tags will be generated, which will increase the size of page files. The style declaration can be reduced to the CSS stylesheet alone, which can greatly reduce the volume of the page, so that the time to load the page will be greatly reduced. In addition, the reuse of the larger CSS stylesheets reduces the volume of the page and reduces the time to download.</td>
+     </tr>
+   </table>
+   <br>
+   <h2>Working principle</h2>
+   CSS is a language that defines style structures, such as fonts, colors, positions, and so on, which is used to describe the format of information formatting and reality on a web page. The CSS style can be stored directly on a HTML web page or a separate style single file. In either way, the style sheet contains the rules that apply the style to the specified type of element. In external use, the style single rules are placed in an external style single document with the file extension name _css.<br>
+   Style rules are formatted instructions that can be applied to elements in a web page, such as text paragraphs or links. Style rules are made up of one or more style properties and their values. The internal style sheet is placed directly on the web page, and the external style sheet is guaranteed to exist in a separate document, and the web page links the external style sheet through a special label.<br>
+   <h2>Technical application</h2>
+  <p>Add a hyperlink in the HTML file and introduce an external CSS document. This method is the most convenient way to manage the web style of the whole web site, which separates the text content from the layout design. As long as we define the style of the web page in a CSS document (extension CSS), then add a hyperlink to the document in the webpage, then the web page will be displayed according to the well-defined style in the CSS document.</p>
+  <p><strong>And a very important thing of css is <a href="css2 selector.html">selector.</a></strong></p>
+</div>
+<div id="footer">
+
+</body>
+
+</html>
